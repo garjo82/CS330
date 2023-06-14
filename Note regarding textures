@@ -1,0 +1,3 @@
+The zipped project file size was too big to upload because of the textures, 
+and the textures were to big for a single zipped file, so they were split into 
+textures1 and textures2. Unzip the images into resources->textures in the main project folder.
